@@ -129,7 +129,7 @@ Whenever users utilize the system truthfully then they are rewarded. That means 
 
 The development of sikorka also needs to be funded somehow and for this reason all sikorka enabled contracts pay a very small fee `F` into the development wallet for each time they utilize the sikorka network. This fee is changeable and can be changed by the development multisig. It is in the best interests of the sikorka development team to have a healthy network and for many people to create sikorka contracts. For that reason the fee should be reasonably low and also changeable depending on the price of ETH.
 
-The development multisig also controls the sikorka ENS subregistrar. This is how the address of the sikorka registry, the sikorka reputation and all other contracts is determined and this is how upgrades to the contracts will happen.
+The development multisig also controls the sikorka ENS domain. This is how the address of the sikorka registry, the sikorka reputation and all other contracts is determined and this is how upgrades to the contracts will happen.
 
 The above 2 points require some trust in the development team. That is just how this system will work in the beginning. This can evolve though and users of the system with high enough reputation could be getting a vote in all network governance related matters.
 
